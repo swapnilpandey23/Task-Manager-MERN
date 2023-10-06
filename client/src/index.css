@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*Default style for all.*/
+* {
+  font-family: 'Poppins', sans-serif;
+  background: #cceaed;
+}
